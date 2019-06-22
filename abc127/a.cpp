@@ -11,6 +11,5 @@ int main(void){
     }else {
         cout << B << endl;
     }
-
     return 0;
 }
